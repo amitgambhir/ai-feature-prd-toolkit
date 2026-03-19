@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "npm --prefix scorer run dev",
+    "build": "npm --prefix scorer run build",
+    "start": "npm --prefix scorer run start",
+    "install:scorer": "npm --prefix scorer install"
+  }
+}

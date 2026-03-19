@@ -1,0 +1,21 @@
+# Environment variables — never commit these
+.env.local
+.env*.local
+
+# Next.js build output
+scorer/.next/
+scorer/out/
+
+# Auto-generated at build/dev time — source of truth is template/AI-FEATURE-PRD-TEMPLATE.md
+scorer/public/AI-FEATURE-PRD-TEMPLATE.md
+
+# Node modules
+node_modules/
+scorer/node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude Code
+CLAUDE.md

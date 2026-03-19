@@ -1,0 +1,23 @@
+{
+  "name": "prd-scorer",
+  "version": "1.0.0",
+  "scripts": {
+    "predev": "cp ../template/AI-FEATURE-PRD-TEMPLATE.md public/AI-FEATURE-PRD-TEMPLATE.md",
+    "dev": "next dev",
+    "prebuild": "cp ../template/AI-FEATURE-PRD-TEMPLATE.md public/AI-FEATURE-PRD-TEMPLATE.md",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "dependencies": {
+    "next": "^15.5.13",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@babel/runtime": "^7.29.2",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
