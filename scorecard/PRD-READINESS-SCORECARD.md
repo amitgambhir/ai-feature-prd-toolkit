@@ -159,4 +159,4 @@ Use this scorecard to evaluate any AI feature PRD before approving it for engine
 
 ---
 
-*Scorecard version: 1.0 — maintained at [repo link]*
+*Scorecard version: 1.0 — maintained at [https://github.com/amitgambhir/ai-feature-prd-toolkit]*

@@ -258,4 +258,4 @@ Budget approved: `[ ] Yes  [ ] No — pending approval from: [Name]`
 
 ---
 
-*Template version: 1.0 — maintained at [repo link]*
+*Template version: 1.0 — maintained at [https://github.com/amitgambhir/ai-feature-prd-toolkit]*
