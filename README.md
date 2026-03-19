@@ -59,7 +59,7 @@ Most teams answer these questions in production, not in requirements. This repo 
 
 ## PRD Scorer Web App
 
-**Live:** [https://prd-scorer.vercel.app](https://prd-scorer.vercel.app) *(update after deployment)*
+**Live:** [https://ai-feature-prd-toolkit.vercel.app/](https://ai-feature-prd-toolkit.vercel.app/) *(update after deployment)*
 
 Upload any AI feature PRD — `.md`, `.txt`, `.pdf`, or `.docx` — and get an instant 10-point readiness score powered by Claude. Each dimension returns a finding, a fix recommendation, and a downloadable Markdown report. The app also offers a direct download of the PRD template so you can start from scratch without leaving the page.
 
